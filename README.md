@@ -6,7 +6,7 @@
 
 A playful desktop companion for Windows
 
-[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Get%20it-blue)](https://apps.microsoft.com/detail/9NTDXW97T3K)
+[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Get%20it-blue)](https://apps.microsoft.com/store/detail/9NJTDXW97T3K?cid=DevShareMCLPCS)
 [![Website](https://img.shields.io/badge/Website-dhivapet.vercel.app-orange)](https://dhivapet.vercel.app)
 [![License](https://img.shields.io/badge/License-Freeware-green)](#)
 
@@ -24,7 +24,7 @@ Dhiva Pet is a playful desktop companion for Windows. Watch 11 unique characters
 
 ## 🎉 Now Available on Microsoft Store
 
-### [👉 Get it from Microsoft Store](https://apps.microsoft.com/detail/9NTDXW97T3K)
+### [👉 Get it from Microsoft Store](https://apps.microsoft.com/store/detail/9NJTDXW97T3K?cid=DevShareMCLPCS)
 
 **$2.99** · Auto-updates · Verified · Safe
 
@@ -62,7 +62,7 @@ Dhiva Pet is a playful desktop companion for Windows. Watch 11 unique characters
 ## 📥 Download
 
 ### Option 1: Microsoft Store (Recommended)
-[**Get it from Microsoft Store**](https://apps.microsoft.com/detail/9NTDXW97T3K) — $2.99
+[**Get it from Microsoft Store**](https://apps.microsoft.com/store/detail/9NJTDXW97T3K?cid=DevShareMCLPCS) — $2.99
 
 ### Option 2: Free Direct Download
 [**Download v1.0.0**](https://github.com/MrDhivakar/Dhiva-Pet-v1.0.0/releases/download/v1.0.0/Dhiva-Pet-Setup-1.0.0.exe) — Free
@@ -94,7 +94,7 @@ Dhiva Pet is a playful desktop companion for Windows. Watch 11 unique characters
 If you enjoy Dhiva Pet, please support:
 
 - ⭐ **Star this repo**
-- 🛍️ **Buy on [Microsoft Store](https://apps.microsoft.com/detail/9NTDXW97T3K)**
+- 🛍️ **Buy on [Microsoft Store](https://apps.microsoft.com/store/detail/9NJTDXW97T3K?cid=DevShareMCLPCS)**
 - 💳 **UPI:** `vikram74483051@okicici`
 - 📸 **[Instagram](https://www.instagram.com/dhiva_404)**
 - ▶️ **[YouTube](https://youtube.com/@dhiva404)**
